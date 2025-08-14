@@ -1,2 +1,2 @@
 # culturadigitall2
-repositorio para gestionar los trabajos de la materia cultura digital 2024-2025(2)
+Benitez Beltran Mariana Fernanda
